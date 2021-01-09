@@ -1,0 +1,17 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:8080
+functions:
+  yololess:
+    lang: bash-streaming
+    handler: ./yololess
+    image: shivupoojar/yololess:latest
+    labels:
+      com.openfaas.scale.min: 1
+      com.openfaas.scale.max: 15
+    environment:
+      write_timeout: 2m
+      read_timeout: 2m
+      exec_timeout: 300s
+
