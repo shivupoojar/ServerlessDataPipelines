@@ -1,0 +1,14 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:8080
+functions:
+  bashffmpeg:
+    lang: bash-streaming
+    handler: ./bashffmpeg
+    image: shivupoojar/bashffmpeg:latest
+    environment:
+      write_timeout: 1m
+      read_timeout: 1m
+      exec_timeout: 1m
+
