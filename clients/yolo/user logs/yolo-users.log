@@ -1,0 +1,25 @@
+Wed Oct 27 14:09:31 UTC 2021
+r1.mp4
+total 608
+-rw-r--r--    1 app      app          56018 Oct 27 14:09 _001.jpg
+-rw-r--r--    1 app      app          65614 Oct 27 14:09 _002.jpg
+-rw-r--r--    1 app      app          68833 Oct 27 14:09 _003.jpg
+-rw-r--r--    1 app      app          98785 Oct 27 14:09 _004.jpg
+-rw-r--r--    1 app      app          94898 Oct 27 14:09 _005.jpg
+-rw-r--r--    1 app      app          76079 Oct 27 14:09 _006.jpg
+-rw-r--r--    1 app      app          64356 Oct 27 14:09 _007.jpg
+-rw-r--r--    1 app      app          24436 Oct 27 14:09 _008.jpg
+-rw-r--r--    1 app      app          18953 Oct 27 14:09 _009.jpg
+-rw-r--r--    1 app      app          26586 Oct 27 14:09 _010.jpg
+drwxr-sr-x    1 app      app           4096 Oct 27 10:10 function
+-rwxr-xr-x    1 app      app             37 May 10 07:50 index.sh
+_001.jpg published to mqtt
+_002.jpg published to mqtt
+_003.jpg published to mqtt
+_004.jpg published to mqtt
+_005.jpg published to mqtt
+_006.jpg published to mqtt
+_007.jpg published to mqtt
+_008.jpg published to mqtt
+_009.jpg published to mqtt
+_010.jpg published to mqtt

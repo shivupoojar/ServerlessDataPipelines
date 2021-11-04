@@ -1,0 +1,3100 @@
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1001.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:41 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:m9Ujo8o41Xnw1CtNam3quVCXfCE=
+> Content-Length: 35096
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5ecd70d8a05367065d9cb5b916d67cff"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CA31DFDB3A
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:42 GMT
+< 
+100 35096    0     0  100 35096      0   342k --:--:-- --:--:-- --:--:--  346k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1002.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:42 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:Qvo4IgL3qOjQiw+Q46PdTo6U7iU=
+> Content-Length: 35096
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5ecd70d8a05367065d9cb5b916d67cff"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CA3B7DBDF4
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:42 GMT
+< 
+100 35096    0     0  100 35096      0   403k --:--:-- --:--:-- --:--:--  408k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1003.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:42 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:5ncSQu4h4oAYfsVzGIecTd+w2EI=
+> Content-Length: 35096
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5ecd70d8a05367065d9cb5b916d67cff"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CA43EE34CD
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:42 GMT
+< 
+100 35096    0     0  100 35096      0   265k --:--:-- --:--:-- --:--:--  265k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1004.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:42 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:NMhp2EHk6XmHUdf3QHH4OJKMBcc=
+> Content-Length: 35096
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5ecd70d8a05367065d9cb5b916d67cff"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CA4E94F5F5
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:42 GMT
+< 
+100 35096    0     0  100 35096      0   292k --:--:-- --:--:-- --:--:--  292k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1005.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:42 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:NagsBbM74whKdtULM7ZyLKHw4Fk=
+> Content-Length: 35096
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5ecd70d8a05367065d9cb5b916d67cff"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CA5871D4E7
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:42 GMT
+< 
+100 35096    0     0  100 35096      0   306k --:--:-- --:--:-- --:--:--  306k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1006.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:42 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:VgQ6wHEq240IFLjEYdx32EEjfRk=
+> Content-Length: 35096
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5ecd70d8a05367065d9cb5b916d67cff"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CA6280C2B6
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:42 GMT
+< 
+100 35096    0     0  100 35096      0   211k --:--:-- --:--:-- --:--:--  211k100 35096    0     0  100 35096      0   210k --:--:-- --:--:-- --:--:--  208k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1007.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:42 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:0WC+f/Q2GRfhiA4bltg93FtjjPs=
+> Content-Length: 35096
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5ecd70d8a05367065d9cb5b916d67cff"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CA6FF937B3
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:43 GMT
+< 
+100 35096    0     0  100 35096      0  43168 --:--:-- --:--:-- --:--:-- 43221
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1008.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:43 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:GXTlhbROC2OHXS5nSf0KwCIDyfY=
+> Content-Length: 35096
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5ecd70d8a05367065d9cb5b916d67cff"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CAA3882978
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:43 GMT
+< 
+100 35096    0     0  100 35096      0   208k --:--:-- --:--:-- --:--:--  208k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1009.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:44 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:Q0IZt2oKghaU5DamcPO2aD0dPKw=
+> Content-Length: 35096
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5ecd70d8a05367065d9cb5b916d67cff"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CAB077CF63
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:44 GMT
+< 
+100 35096    0     0  100 35096      0   192k --:--:-- --:--:-- --:--:--  192k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r10010.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:44 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:nzg2mYF2WhBfEhHloxTjoYZZNd4=
+> Content-Length: 35096
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5ecd70d8a05367065d9cb5b916d67cff"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CABE333D7A
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:44 GMT
+< 
+100 35096    0     0  100 35096      0   207k --:--:-- --:--:-- --:--:--  207k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1011.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:44 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:Lxyb0TFW/7I7zkTHg0Y1Ei5Uh5I=
+> Content-Length: 62772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "f19d19ebb519659d2a000f5bf7c42d2a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CACC1722AB
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:44 GMT
+< 
+100 62772    0     0  100 62772      0   290k --:--:-- --:--:-- --:--:--  290k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1012.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:44 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:Q/qNxdChQdDWYFd9J1m2SJwZmc4=
+> Content-Length: 62772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+100 62772    0     0  100 62772      0   304k --:--:-- --:--:-- --:--:--  303k< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "f19d19ebb519659d2a000f5bf7c42d2a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CADBC577C5
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:45 GMT
+< 
+100 62772    0     0  100 62772      0   259k --:--:-- --:--:-- --:--:--  258k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1013.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:45 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:+nAQjWHcZ2gw4p76beMDU4Gn+iw=
+> Content-Length: 62772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "f19d19ebb519659d2a000f5bf7c42d2a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CAED143A12
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:45 GMT
+< 
+100 62772    0     0  100 62772      0   537k --:--:-- --:--:-- --:--:--  537k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1014.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:45 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:JtZiEMc+UtXIxOONPcf78kLGd84=
+> Content-Length: 62772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "f19d19ebb519659d2a000f5bf7c42d2a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CAFD6B759F
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:45 GMT
+< 
+100 62772    0     0  100 62772      0   441k --:--:-- --:--:-- --:--:--  441k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1015.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:45 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:XAY82Xggc5mLkG7NxOTa9BBh5JE=
+> Content-Length: 62772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "f19d19ebb519659d2a000f5bf7c42d2a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CB08C76A47
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:45 GMT
+< 
+100 62772    0     0  100 62772      0   371k --:--:-- --:--:-- --:--:--  371k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1016.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:45 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:JRHxiJxDCPO9uwNa2QawW3LtS/s=
+> Content-Length: 62772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "f19d19ebb519659d2a000f5bf7c42d2a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CB164C0D33
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:45 GMT
+< 
+100 62772    0     0  100 62772      0   482k --:--:-- --:--:-- --:--:--  478k100 62772    0     0  100 62772      0   475k --:--:-- --:--:-- --:--:--  475k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1017.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:45 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:CYZNG6FcEwwZs7rEwD6ReifkgZc=
+> Content-Length: 62772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "f19d19ebb519659d2a000f5bf7c42d2a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CB211CCA1E
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:46 GMT
+< 
+100 62772    0     0  100 62772      0   510k --:--:-- --:--:-- --:--:--  510k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1018.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:46 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:NJhuzdUldJwSAFcNM8xD6y5262A=
+> Content-Length: 62772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "f19d19ebb519659d2a000f5bf7c42d2a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CB2B46FCBD
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:46 GMT
+< 
+100 62772    0     0  100 62772      0  87670 --:--:-- --:--:-- --:--:-- 87670100 62772    0     0  100 62772      0  87548 --:--:-- --:--:-- --:--:-- 87426
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1019.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:46 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:9pAM7wFYIk5JPeydHlbuII+Pxbo=
+> Content-Length: 62772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "f19d19ebb519659d2a000f5bf7c42d2a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CB58E71873
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:47 GMT
+< 
+100 62772    0     0  100 62772      0   320k --:--:-- --:--:-- --:--:--  320k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r10110.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:47 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:JM09/Emx0PFzgxVe73xxE1NvWEI=
+> Content-Length: 62772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "f19d19ebb519659d2a000f5bf7c42d2a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CB67F4CEC8
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:47 GMT
+< 
+100 62772    0     0  100 62772      0   405k --:--:-- --:--:-- --:--:--  405k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1021.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:47 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:ZYJac4CnPNZZEIJn3LS09Ocx0tI=
+> Content-Length: 49266
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "2802810177d6dc53d1d2be7e43257e62"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CB749B5640
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:47 GMT
+< 
+100 49266    0     0  100 49266      0   308k --:--:-- --:--:-- --:--:--  310k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1022.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:47 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:34h0Dqr2kx0bymzR/W/zjqOE0dg=
+> Content-Length: 49266
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "2802810177d6dc53d1d2be7e43257e62"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CB8113C063
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:47 GMT
+< 
+100 49266    0     0  100 49266      0   232k --:--:-- --:--:-- --:--:--  232k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1023.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:47 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:L5nfd0awkXWnCOKE7B4Ymb0+oLY=
+> Content-Length: 49266
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+  0 49266    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "2802810177d6dc53d1d2be7e43257e62"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CB90FA36CD
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:48 GMT
+< 
+100 49266    0     0  100 49266      0   215k --:--:-- --:--:-- --:--:--  214k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1024.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:48 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:dS10SR4kPbJwVLGXAK9aZl9p3iw=
+> Content-Length: 49266
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "2802810177d6dc53d1d2be7e43257e62"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CBA137DC97
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:48 GMT
+< 
+100 49266    0     0  100 49266      0   318k --:--:-- --:--:-- --:--:--  318k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1025.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:48 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:JJZm/bgMpfmAx1Tpvve8TxPPRYQ=
+> Content-Length: 49266
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "2802810177d6dc53d1d2be7e43257e62"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CBAD58CA86
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:48 GMT
+< 
+100 49266    0     0  100 49266      0   298k --:--:-- --:--:-- --:--:--  300k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1026.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:48 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:GRlUFQn7Ntx8q7+GdWU89CkYSfQ=
+> Content-Length: 49266
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "2802810177d6dc53d1d2be7e43257e62"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CBBA0B80BB
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:48 GMT
+< 
+100 49266    0     0  100 49266      0   384k --:--:-- --:--:-- --:--:--  384k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1027.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:48 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:1QUU7N4U97xKDPeyEBLjLgdcPZc=
+> Content-Length: 49266
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "2802810177d6dc53d1d2be7e43257e62"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CBC52684E1
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:48 GMT
+< 
+100 49266    0     0  100 49266      0   268k --:--:-- --:--:-- --:--:--  267k100 49266    0     0  100 49266      0   265k --:--:-- --:--:-- --:--:--  265k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1028.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:48 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:mg5YhX4NUmSv1MkfPFhTw8XVTxs=
+> Content-Length: 49266
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "2802810177d6dc53d1d2be7e43257e62"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CBD2FC3078
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:49 GMT
+< 
+100 49266    0     0  100 49266      0   265k --:--:-- --:--:-- --:--:--  267k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1029.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:49 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:00DiMoCz9VO0MmTIkk5WK5or98I=
+> Content-Length: 49266
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "2802810177d6dc53d1d2be7e43257e62"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CBE0F1FC6B
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:49 GMT
+< 
+100 49266    0     0  100 49266      0   394k --:--:-- --:--:-- --:--:--  397k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r10210.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:49 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:5fc+Xev19bPxJjpOGLnjBkc5Du8=
+> Content-Length: 49266
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "2802810177d6dc53d1d2be7e43257e62"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CBEB6E5A48
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:49 GMT
+< 
+100 49266    0     0  100 49266      0   501k --:--:-- --:--:-- --:--:--  501k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1031.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:49 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:+nrVv3Nqt/XVfx3pY62NVhhueUA=
+> Content-Length: 49772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5dc23a97df1eb25285b528b94606714a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CBF4F6EE6B
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:49 GMT
+< 
+100 49772    0     0  100 49772      0   342k --:--:-- --:--:-- --:--:--  344k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1032.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:49 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:Xc2O+b9ngFMb22P2nSQ0URnusaA=
+> Content-Length: 49772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5dc23a97df1eb25285b528b94606714a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CC013BD28B
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:49 GMT
+< 
+100 49772    0     0  100 49772      0   395k --:--:-- --:--:-- --:--:--  398k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1033.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:49 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:IPV+n98vM/amSdvAmEbn7v8P92w=
+> Content-Length: 49772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5dc23a97df1eb25285b528b94606714a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CC0B160587
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:50 GMT
+< 
+100 49772    0     0  100 49772      0  64723 --:--:-- --:--:-- --:--:-- 64807
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1034.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:50 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:4eSgR5DCt4uPHsFLhS/+nw4JMuQ=
+> Content-Length: 49772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+100 49772    0     0  100 49772      0   241k --:--:-- --:--:-- --:--:--  241k< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5dc23a97df1eb25285b528b94606714a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CC3C38478A
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:50 GMT
+< 
+100 49772    0     0  100 49772      0   167k --:--:-- --:--:-- --:--:--  167k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1035.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:50 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:TyHOc01BfKkXgCd/q+VUxF26LEM=
+> Content-Length: 49772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5dc23a97df1eb25285b528b94606714a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CC50578855
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:51 GMT
+< 
+100 49772    0     0  100 49772      0   182k --:--:-- --:--:-- --:--:--  182k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1036.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:51 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:5JMtb7Gyw/I08eRM44MnSdUPu8c=
+> Content-Length: 49772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5dc23a97df1eb25285b528b94606714a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CC6369A223
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:51 GMT
+< 
+100 49772    0     0  100 49772      0   238k --:--:-- --:--:-- --:--:--  238k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1037.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:51 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:c4lreBFG5r2UOCWndrbnQYutugU=
+> Content-Length: 49772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5dc23a97df1eb25285b528b94606714a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CC72F5190C
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:51 GMT
+< 
+100 49772    0     0  100 49772      0   450k --:--:-- --:--:-- --:--:--  450k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1038.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:51 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:B9SYn8NAca1NCS4soYbM3kyWGS4=
+> Content-Length: 49772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5dc23a97df1eb25285b528b94606714a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CC7C758A99
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:51 GMT
+< 
+100 49772    0     0  100 49772      0   471k --:--:-- --:--:-- --:--:--  471k100 49772    0     0  100 49772      0   467k --:--:-- --:--:-- --:--:--  462k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1039.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:51 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:bHnrO9I7wq3Vk9pAYn4Na5WpNdY=
+> Content-Length: 49772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5dc23a97df1eb25285b528b94606714a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CC85D4C686
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:52 GMT
+< 
+100 49772    0     0  100 49772      0   495k --:--:-- --:--:-- --:--:--  495k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r10310.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:52 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:5BgMHeo+UV+m7sbRKug+3yb+4Fc=
+> Content-Length: 49772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "5dc23a97df1eb25285b528b94606714a"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CC8EF48CA2
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:52 GMT
+< 
+100 49772    0     0  100 49772      0   578k --:--:-- --:--:-- --:--:--  578k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1041.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:52 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:mmakysMQIc+Sb7Uczf31xtjquaM=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CC97B90964
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:52 GMT
+< 
+100  109k    0     0  100  109k      0  1117k --:--:-- --:--:-- --:--:-- 1128k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1042.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:52 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:aE2MMBCI2IiqIHgR5MMLgGYtmSc=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CCA0A7BB47
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:52 GMT
+< 
+100  109k    0     0  100  109k      0   842k --:--:-- --:--:-- --:--:--  842k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1043.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:52 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:JuffvO7GxfH7H1Fm80A7vVj4/hI=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CCAB872C99
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:52 GMT
+< 
+100  109k    0     0  100  109k      0   968k --:--:-- --:--:-- --:--:--  968k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1044.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:52 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:LLjxkHc7G//b4Wsl+mBkBtAsDMY=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+100  109k    0     0  100  109k      0   544k --:--:-- --:--:-- --:--:--  544k< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CCB5CC1018
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:53 GMT
+< 
+100  109k    0     0  100  109k      0   148k --:--:-- --:--:-- --:--:--  148k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1045.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:53 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:ouo7Fc9XtnAp6vYgoXvpse30lRw=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CCE52D54E8
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:53 GMT
+< 
+100  109k    0     0  100  109k      0   693k --:--:-- --:--:-- --:--:--  693k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1046.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:53 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:vq00vh2V3KsuzYMFi4v51H03NJs=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+100  109k    0     0  100  109k      0   547k --:--:-- --:--:-- --:--:--  544k< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CCF1BDF1D4
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:53 GMT
+< 
+100  109k    0     0  100  109k      0   484k --:--:-- --:--:-- --:--:--  482k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1047.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:53 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:+k/PjYRjbzM1ozE4jG6oo9alQkk=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CD02B82970
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:54 GMT
+< 
+100  109k    0     0  100  109k      0   482k --:--:-- --:--:-- --:--:--  484k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1048.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:54 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:YaFM4r5UnbQWFLn8Sitwz3UM4cM=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CD14064724
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:54 GMT
+< 
+100  109k    0     0  100  109k      0   336k --:--:-- --:--:-- --:--:--  336k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1049.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:54 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:mYMpplvlHuWZ7ca39Ct0wTP5gJo=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CD29FD47B4
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:54 GMT
+< 
+100  109k    0     0  100  109k      0  1094k --:--:-- --:--:-- --:--:-- 1094k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r10410.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:54 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:lLzzx3CBqR+vrTikwwKHqi6Eme8=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CD335BFB1F
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:54 GMT
+< 
+100  109k    0     0  100  109k      0  1403k --:--:-- --:--:-- --:--:-- 1403k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1051.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:54 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:nNeakC5ZjGXA5bi55sMVW4SJt/A=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CD3B63A0BE
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:55 GMT
+< 
+100  109k    0     0  100  109k      0  1128k --:--:-- --:--:-- --:--:-- 1128k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1052.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:55 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:v8csZ0ke4s6EeOpxKFi7CFSx4xE=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CD44BEA893
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:55 GMT
+< 
+100  109k    0     0  100  109k      0  1164k --:--:-- --:--:-- --:--:-- 1164k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1053.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:55 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:YItiXLAHLwrPn88H4wqGsgpaqWQ=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CD4D42510A
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:55 GMT
+< 
+100  109k    0     0  100  109k      0  1152k --:--:-- --:--:-- --:--:-- 1152k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1054.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:55 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:hA5+R1sNMoBcoR1Xds7KrEJKAIw=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CD579B5938
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:56 GMT
+< 
+100  109k    0     0  100  109k      0   154k --:--:-- --:--:-- --:--:--  154k100  109k    0     0  100  109k      0   154k --:--:-- --:--:-- --:--:--  153k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1055.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:56 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:BeEiLZBnhsg0uD6ugfnlIGjqs4g=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CD853EB336
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:56 GMT
+< 
+100  109k    0     0  100  109k      0   608k --:--:-- --:--:-- --:--:--  611k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1056.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:56 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:c7ZUydwmQB0fT7ahYMwQkYtd9Ig=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CD9351F707
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:56 GMT
+< 
+100  109k    0     0  100  109k      0   476k --:--:-- --:--:-- --:--:--  476k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1057.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:56 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:yCx73MQCg3827ZDwm0rhSVzkIRU=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+100  109k    0     0  100  109k      0   544k --:--:-- --:--:-- --:--:--  544k< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CDA3CC7183
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:56 GMT
+< 
+100  109k    0     0  100  109k      0   488k --:--:-- --:--:-- --:--:--  486k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1058.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:56 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:OmV/BWRyNF5jhwqFuLozqsdPWfU=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CDB47152AC
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:57 GMT
+< 
+100  109k    0     0  100  109k      0   509k --:--:-- --:--:-- --:--:--  511k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1059.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:57 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:QkAtJZ1UalyREL77qc0eaJbP530=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CDC4C1440A
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:57 GMT
+< 
+100  109k    0     0  100  109k      0   663k --:--:-- --:--:-- --:--:--  663k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r10510.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:57 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:XICzRTerDha8/oTU3+MVTSxN3F0=
+> Content-Length: 112124
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e3c7497fe1760aac92696ea83ff63108"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CDD19AB5E6
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:57 GMT
+< 
+100  109k    0     0  100  109k      0  1013k --:--:-- --:--:-- --:--:-- 1013k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1061.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:57 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:mL5cJVoX3TsztMG8JvEZl+PkH2c=
+> Content-Length: 145878
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "1cc08a155481cc9184cd784c6fbcf7e0"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CDDB478A4A
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:57 GMT
+< 
+100  142k    0     0  100  142k      0   931k --:--:-- --:--:-- --:--:--  931k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1062.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:57 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:ysN8/HCpLbjwOuuwzYbLuaNciFw=
+> Content-Length: 145878
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "1cc08a155481cc9184cd784c6fbcf7e0"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CDE845E383
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:58 GMT
+< 
+100  142k    0     0  100  142k      0   741k --:--:-- --:--:-- --:--:--  741k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1063.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:58 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:15V20s1l23XPwMKwsqcHxqHSTKo=
+> Content-Length: 145878
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "1cc08a155481cc9184cd784c6fbcf7e0"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CDF6F08A41
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:58 GMT
+< 
+100  142k    0     0  100  142k      0   837k --:--:-- --:--:-- --:--:--  837k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1064.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:58 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:RuDH+kgpMuvHrV3HNpCFMXObao4=
+> Content-Length: 145878
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "1cc08a155481cc9184cd784c6fbcf7e0"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CE042C2B80
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:59 GMT
+< 
+100  142k    0     0  100  142k      0   165k --:--:-- --:--:-- --:--:--  165k100  142k    0     0  100  142k      0   165k --:--:-- --:--:-- --:--:--  165k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1065.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:59 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:lhby5wyzvOR5Cu0E1HRcWyyYENw=
+> Content-Length: 145878
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "1cc08a155481cc9184cd784c6fbcf7e0"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CE3AA8473F
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:59 GMT
+< 
+100  142k    0     0  100  142k      0   787k --:--:-- --:--:-- --:--:--  787k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1066.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:59 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:xA7/d7djS9ZpWcT33OuzMVZEKCI=
+> Content-Length: 145878
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "1cc08a155481cc9184cd784c6fbcf7e0"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CE487DF00F
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:13:59 GMT
+< 
+100  142k    0     0  100  142k      0   552k --:--:-- --:--:-- --:--:--  552k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1067.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:13:59 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:mwo9Knpvwzp+TnbOS27gYBVnNBI=
+> Content-Length: 145878
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+ 78  142k    0     0   78  112k      0  2382k --:--:-- --:--:-- --:--:-- 2333k* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "1cc08a155481cc9184cd784c6fbcf7e0"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CE5B2B47AD
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:00 GMT
+< 
+100  142k    0     0  100  142k      0   576k --:--:-- --:--:-- --:--:--  576k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1068.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:00 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:DqjAyOhrWVZnUsUyrd79TIg19k4=
+> Content-Length: 145878
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "1cc08a155481cc9184cd784c6fbcf7e0"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CE6D433BDC
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:00 GMT
+< 
+100  142k    0     0  100  142k      0  1369k --:--:-- --:--:-- --:--:-- 1369k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1069.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:00 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:cArgb6YBhPbrsmT52cnBb8bIswA=
+> Content-Length: 145878
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "1cc08a155481cc9184cd784c6fbcf7e0"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CE76A1B553
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:00 GMT
+< 
+100  142k    0     0  100  142k      0  1424k --:--:-- --:--:-- --:--:-- 1424k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r10610.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:00 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:47xTtVeNpVK+OtqTqwcG8hv49BY=
+> Content-Length: 145878
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+100  142k    0     0  100  142k      0   118k  0:00:01  0:00:01 --:--:--  118k100  142k    0     0  100  142k      0  66187  0:00:02  0:00:02 --:--:-- 66187< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "1cc08a155481cc9184cd784c6fbcf7e0"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CE802E2CE0
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:02 GMT
+< 
+100  142k    0     0  100  142k      0  57545  0:00:02  0:00:02 --:--:-- 57522100  142k    0     0  100  142k      0  57500  0:00:02  0:00:02 --:--:-- 57500
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1071.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:02 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:7LTE16XkoG0bHWaKsdsaUTFZJTY=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e9ad2e9810b2df41bec03ff7fc16f40f"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CF1B0D76C7
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:03 GMT
+< 
+100  207k    0     0  100  207k      0   965k --:--:-- --:--:-- --:--:--  965k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1072.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:03 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:spVu/WM0Rz6hyIIOfLYy89xTxZc=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e9ad2e9810b2df41bec03ff7fc16f40f"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CF2ACB2F03
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:03 GMT
+< 
+100  207k    0     0  100  207k      0  1584k --:--:-- --:--:-- --:--:-- 1596k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1073.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:03 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:gHvpSFC72YIUo0sMnjZmUtaoFyw=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e9ad2e9810b2df41bec03ff7fc16f40f"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CF35B009A4
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:03 GMT
+< 
+100  207k    0     0  100  207k      0  1976k --:--:-- --:--:-- --:--:-- 1995k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1074.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:03 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:eGjsndu8rLwkLCR6VY1Q9DVqBYo=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e9ad2e9810b2df41bec03ff7fc16f40f"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CF3EEBE71E
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:03 GMT
+< 
+100  207k    0     0  100  207k      0  1921k --:--:-- --:--:-- --:--:-- 1921k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1075.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:03 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:dnroZyUTWapOZ8juXAH2iJ/XTmc=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e9ad2e9810b2df41bec03ff7fc16f40f"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CF4879534F
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:03 GMT
+< 
+100  207k    0     0  100  207k      0  1976k --:--:-- --:--:-- --:--:-- 1976k100  207k    0     0  100  207k      0  1958k --:--:-- --:--:-- --:--:-- 1939k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1076.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:03 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:me8EIeSDLsYMNlqt46Z1naqA/jY=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e9ad2e9810b2df41bec03ff7fc16f40f"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CF51B771E4
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:04 GMT
+< 
+100  207k    0     0  100  207k      0  1904k --:--:-- --:--:-- --:--:-- 1904k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1077.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:04 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:PDbPVnJeuq3FByNozFoN9HhkYWQ=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e9ad2e9810b2df41bec03ff7fc16f40f"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CF5B48D488
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:04 GMT
+< 
+100  207k    0     0  100  207k      0   290k --:--:-- --:--:-- --:--:--  290k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1078.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:04 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:D/EninQl2emJ6jv2h7ahm/wwyWo=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e9ad2e9810b2df41bec03ff7fc16f40f"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CF89249855
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:05 GMT
+< 
+100  207k    0     0  100  207k      0   743k --:--:-- --:--:-- --:--:--  743k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1079.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:05 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:DBIfsML0G655XTQgZzr7nnRR1hs=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e9ad2e9810b2df41bec03ff7fc16f40f"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CF9D1DFAF9
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:05 GMT
+< 
+100  207k    0     0  100  207k      0   696k --:--:-- --:--:-- --:--:--  698k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r10710.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:05 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:cx/muzrKyp99NKM/T/5d0cZc860=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "e9ad2e9810b2df41bec03ff7fc16f40f"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CFB21C6611
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:05 GMT
+< 
+100  207k    0     0  100  207k      0   801k --:--:-- --:--:-- --:--:--  804k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1081.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:05 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:u/b0D86u5geOKjkFsu5PfTVir/4=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+100  207k    0     0  100  207k      0   172k  0:00:01  0:00:01 --:--:--  172k100  207k    0     0  100  207k      0  96435  0:00:02  0:00:02 --:--:-- 96435100  207k    0     0  100  207k      0  66275  0:00:03  0:00:03 --:--:-- 66275100  207k    0     0  100  207k      0  50497  0:00:04  0:00:04 --:--:-- 50497100  207k    0     0  100  207k      0  40779  0:00:05  0:00:05 --:--:-- 40779< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "d90f52ccac55b3b94e2c48c9e8252269"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017CFC51DCE27
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:11 GMT
+< 
+100  207k    0     0  100  207k      0  37698  0:00:05  0:00:05 --:--:--     0
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1082.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:11 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:kb48fhSLMvAHzKq6h3z6nVYnwYc=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "d90f52ccac55b3b94e2c48c9e8252269"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D1184C0407
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:11 GMT
+< 
+100  207k    0     0  100  207k      0   564k --:--:-- --:--:-- --:--:--  562k100  207k    0     0  100  207k      0   560k --:--:-- --:--:-- --:--:--  560k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1083.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:11 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:3q5fL2CX+iDbSjZ2gwShtF153hM=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "d90f52ccac55b3b94e2c48c9e8252269"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D13124779C
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:12 GMT
+< 
+100  207k    0     0  100  207k      0  1053k --:--:-- --:--:-- --:--:-- 1058k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1084.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:12 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:npyxjplVHSFAriiISxp5hKSEYZk=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "d90f52ccac55b3b94e2c48c9e8252269"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D1401593B4
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:12 GMT
+< 
+100  207k    0     0  100  207k      0  1069k --:--:-- --:--:-- --:--:-- 1069k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1085.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:12 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:cksLwdkattjhCsUwb7uetN/axYU=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "d90f52ccac55b3b94e2c48c9e8252269"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D14FB7F391
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:13 GMT
+< 
+100  207k    0     0  100  207k      0   267k --:--:-- --:--:-- --:--:--  267k100  207k    0     0  100  207k      0   267k --:--:-- --:--:-- --:--:--  267k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1086.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:13 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:w3mUbvOLXUtlKYopsS26EOOH2Jc=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "d90f52ccac55b3b94e2c48c9e8252269"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D1808CEECD
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:13 GMT
+< 
+100  207k    0     0  100  207k      0   780k --:--:-- --:--:-- --:--:--  783k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1087.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:13 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:g7dIzbGr5iwBqwin+CPSQiz6w+s=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+100  207k    0     0  100  207k      0  1032k --:--:-- --:--:-- --:--:-- 1032k< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "d90f52ccac55b3b94e2c48c9e8252269"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D19390938E
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:13 GMT
+< 
+100  207k    0     0  100  207k      0   763k --:--:-- --:--:-- --:--:--  763k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1088.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:13 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:fwFqf5Wa2kkctzZR3yyMdyUDNxI=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "d90f52ccac55b3b94e2c48c9e8252269"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D1A740A518
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:14 GMT
+< 
+100  207k    0     0  100  207k      0   786k --:--:-- --:--:-- --:--:--  786k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1089.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:14 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:8gFBylfUvlSk+dO6WXyKZOssyD0=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "d90f52ccac55b3b94e2c48c9e8252269"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D1BA475694
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:14 GMT
+< 
+100  207k    0     0  100  207k      0  1804k --:--:-- --:--:-- --:--:-- 1804k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r10810.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:14 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:6XjQ2o2MYvcwzxzzYbrrU4tN8lk=
+> Content-Length: 212544
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "d90f52ccac55b3b94e2c48c9e8252269"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D1C46505A1
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:14 GMT
+< 
+100  207k    0     0  100  207k      0  1660k --:--:-- --:--:-- --:--:-- 1660k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1091.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:14 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:fvoOm8KY58LOLG/2Cdj2mD8OhVw=
+> Content-Length: 367922
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "6461a4d3c389f561207065dfd8d4c01b"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D1CF466E4E
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:14 GMT
+< 
+100  359k    0     0  100  359k      0  2379k --:--:-- --:--:-- --:--:-- 2379k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1092.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:14 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:wn2tbQAwOTdR4Av4bag/i+RDrOE=
+> Content-Length: 367922
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "6461a4d3c389f561207065dfd8d4c01b"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D1DB1E1E5A
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:15 GMT
+< 
+100  359k    0     0  100  359k      0   425k --:--:-- --:--:-- --:--:--  425k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1093.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:15 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:jct1Kv9njr6CmL8Vy66YEWZD0yw=
+> Content-Length: 367922
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+100  359k    0     0  100  359k      0  1787k --:--:-- --:--:-- --:--:-- 1778k< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "6461a4d3c389f561207065dfd8d4c01b"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D210791C6D
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:16 GMT
+< 
+100  359k    0     0  100  359k      0  1162k --:--:-- --:--:-- --:--:-- 1159k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1094.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:16 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:4vMkzRAIb7xOf8q35PfBYVzLROg=
+> Content-Length: 367922
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "6461a4d3c389f561207065dfd8d4c01b"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D22631A264
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:16 GMT
+< 
+100  359k    0     0  100  359k      0  1205k --:--:-- --:--:-- --:--:-- 1209k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1095.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:16 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:xlHrVMYghs4LaSXdExPc+ZyLbys=
+> Content-Length: 367922
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "6461a4d3c389f561207065dfd8d4c01b"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D23AD2E933
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:16 GMT
+< 
+100  359k    0     0  100  359k      0  2444k --:--:-- --:--:-- --:--:-- 2444k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1096.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:16 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:BV5I0G7QZZfTe2m7S0wam+5LqmM=
+> Content-Length: 367922
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+100  359k    0     0  100  359k      0  1796k --:--:-- --:--:-- --:--:-- 1787k< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "6461a4d3c389f561207065dfd8d4c01b"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D246C500B5
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:16 GMT
+< 
+100  359k    0     0  100  359k      0  1589k --:--:-- --:--:-- --:--:-- 1582k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1097.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:16 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:/5OiOqaQJ3YlJnng897AtIJSkyo=
+> Content-Length: 367922
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "6461a4d3c389f561207065dfd8d4c01b"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D2576DFD3B
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:17 GMT
+< 
+100  359k    0     0  100  359k      0  1744k --:--:-- --:--:-- --:--:-- 1744k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1098.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:17 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:JTNFr2gPRAZNVlUMpO7TiGK5/Ww=
+> Content-Length: 367922
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "6461a4d3c389f561207065dfd8d4c01b"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D2667BB7F8
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:18 GMT
+< 
+100  359k    0     0  100  359k      0   331k  0:00:01  0:00:01 --:--:--  331k100  359k    0     0  100  359k      0   330k  0:00:01  0:00:01 --:--:--  331k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r1099.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:18 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:9BhnaggfF3e5YqcVC602EbOSp68=
+> Content-Length: 367922
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "6461a4d3c389f561207065dfd8d4c01b"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D2AA27AA9F
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:18 GMT
+< 
+100  359k    0     0  100  359k      0  1095k --:--:-- --:--:-- --:--:-- 1095k
+* Connection #0 to host 192.168.1.223 left intact
+*   Trying 192.168.1.223...
+* TCP_NODELAY set
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Connected to 192.168.1.223 (192.168.1.223) port 9002 (#0)
+> PUT /rawpocketsphinx/r10910.wav HTTP/1.1
+> Host: 192.168.1.223:9002
+> User-Agent: curl/7.58.0
+> Accept: */*
+> Date: Thu, 21 Oct 2021 16:14:18 +0000
+> Content-Type: application/octet-stream
+> Authorization: AWS AKIAIOSFODNN7EXAMPLE:BPOARS0eg/llYynJyVjbWPd18uw=
+> Content-Length: 367922
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+} [16384 bytes data]
+* We are completely uploaded and fine
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Length: 0
+< Content-Security-Policy: block-all-mixed-content
+< ETag: "6461a4d3c389f561207065dfd8d4c01b"
+< Server: MinIO/DEVELOPMENT.GOGET
+< Vary: Origin
+< X-Amz-Request-Id: 16B017D2C0EBC357
+< X-Xss-Protection: 1; mode=block
+< Date: Thu, 21 Oct 2021 16:14:18 GMT
+< 
+100  359k    0     0  100  359k      0  2763k --:--:-- --:--:-- --:--:-- 2763k
+* Connection #0 to host 192.168.1.223 left intact
