@@ -2,5 +2,5 @@
 
 !! MinIO Storage Server
 * Uses docker compose file located at root directory
-** docker pull
-** docker stack deploy --compose-file docker-compose.yaml minio
+ 1. @@docker pull@@
+2. @@docker stack deploy --compose-file docker-compose.yaml minio@@
