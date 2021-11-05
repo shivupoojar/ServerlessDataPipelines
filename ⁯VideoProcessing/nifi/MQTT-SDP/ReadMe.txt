@@ -1,0 +1,2 @@
+faas-cli build -f yolo2.yml  --build-arg 'TEST_ENABLED=false' && faas push -f yolo2.yml  &&   faas-cli deploy --replace=false --update=true -f yolo2.yml --annotation topic="tosdp2"
+faas-cli build -f sdp2plain2json.yml  --build-arg 'TEST_ENABLED=false' && faas push -f sdp2plain2json.yml  &&   faas-cli deploy --replace=false --update=true -f sdp2plain2json.yml --annotation topic="tolcoud"
